@@ -1,7 +1,7 @@
 # realtime-stock-process-system
 ---
 ### FlowChart
-<img src="https://github.com/talentednew/realtime-stock-process-system/FlowChart.jpg" width="500">
+<img src="https://github.com/talentednew/real-time-stock-process-system/blob/master/FlowChart.jpg" width="500">
 
 ### Steps to build it..
 * Implemented a high-performance data processing platform, using Apache Kafka, Cassandra, and Spark computing
